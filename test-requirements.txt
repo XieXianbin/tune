@@ -4,3 +4,7 @@
 
 testrepository>=0.0.18
 testtools>=0.9.34
+yaml>=3.10
+simplejson>=3.8.1
+
+
